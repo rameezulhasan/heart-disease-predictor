@@ -8,9 +8,12 @@ This project uses **Logistic Regression** as the final selected model and is dep
 
 ## 📸 Application Preview
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor-ap.streamlit.app/)
 
 
 ![App Screenshot](/heart-disease-img.png)
+
+
 
 ---
 
